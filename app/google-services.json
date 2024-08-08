@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "370011972210",
+    "firebase_url": "https://ourocafe-9e3a8-default-rtdb.firebaseio.com",
+    "project_id": "ourocafe-9e3a8",
+    "storage_bucket": "ourocafe-9e3a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370011972210:android:1396f61eaa6041213ed8eb",
+        "android_client_info": {
+          "package_name": "br.com.marllon.cafeouronegrodeminas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPCkZASvaAuKst8pRdRw0rIBpRYuIttiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
